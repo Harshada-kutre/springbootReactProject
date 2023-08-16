@@ -1,0 +1,50 @@
+.header {
+  color: #3855d5;
+  text-align: center;
+}
+
+.form {
+  text-align: center;
+  border: #5c5cff solid 1px;
+  height: 370px;
+  width: 300px;
+  margin: auto;
+  padding: 50px;
+  margin-top: 10px;
+}
+
+.googleLogin {
+  width: 300px;
+}
+
+.home-heading {
+  color: white;
+  background-color: #3855d5;
+  margin: auto;
+  text-align: center;
+  height: 50px;
+  margin: 10px;
+}
+
+.add-user-button {
+  justify-content: center;
+  margin: auto;
+  margin: 10px;
+}
+
+.nav-bar {
+  display: inline;
+}
+
+.navigation-bar {
+  background-color: #3855d5;
+  color: white;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.nav-button {
+  padding: 26px;
+}
